@@ -23,3 +23,6 @@ Meu nome é Guilherme e eu tenho 18 anos, estou no 2º periodo da minha faculdad
 - Faço um curso de React Native na Udemy
 - Faço um curso de inglês na Knn
 - Faço um curso de francês na Knn
+- Faço um curso de Angular na microlins
+
+
